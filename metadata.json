@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Azure/azure-verified-modules-tools/main/src/Avm.Authoring/Resources/Schemas/v1/avm-module-metadata.schema.json",
+  "moduleDisplayName": "AI-ML - Gateway",
+  "moduleDescription": "AVM Pattern Module for AI-ML - Gateway",
+  "canonicalType": "aiml-ai-gateway",
+  "owners": [
+    "mbilalamjad"
+  ],
+  "telemetryIdPrefix": "46d3xtrf.ptn.68fe27b"
+}
