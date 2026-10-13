@@ -1,3 +1,5 @@
-# terraform-azurerm-avm-template
+# AI-ML - Gateway
 
-This is a template repo for Terraform Azure Verified Modules.
+AVM Pattern Module for AI-ML - Gateway
+
+This proposed pattern is not implemented yet. The current scaffold deploys a virtual network only; it is not an AI Gateway.
